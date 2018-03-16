@@ -1,0 +1,9 @@
+total 7
+-rw-r--r-- 1 nish.garg 1049089 67 Mar  8 14:03 file1
+-rw-r--r-- 1 nish.garg 1049089  3 Mar  8 14:03 file3
+-rw-r--r-- 1 nish.garg 1049089  5 Mar  8 14:03 file5
+-rw-r--r-- 1 nish.garg 1049089  3 Mar  8 14:03 myuncommittedchange_forignore
+-rw-r--r-- 1 nish.garg 1049089  3 Mar  8 14:03 newchamge
+-rw-r--r-- 1 nish.garg 1049089 56 Mar  8 14:03 README.md
+-rw-r--r-- 1 nish.garg 1049089 41 Mar  8 14:03 testme
+-rw-r--r-- 1 nish.garg 1049089  0 Mar  8 14:16 xxxxxx.txt
